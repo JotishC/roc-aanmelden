@@ -1,6 +1,6 @@
 ## Aanmeld formulier ROC Leiden
 
-Angular 2 app om studenten aan te laten melden
+Angular 2 app om studenten aan te laten melden.
 
 This branch uses [Webpack](https://webpack.github.io/) for Development. There is also a SystemJS branch available.
 
